@@ -1,0 +1,15 @@
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\bin\Debug\net7.0\phdapplication_eren.exe
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\bin\Debug\net7.0\phdapplication_eren.deps.json
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\bin\Debug\net7.0\phdapplication_eren.runtimeconfig.json
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\bin\Debug\net7.0\phdapplication_eren.dll
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\bin\Debug\net7.0\phdapplication_eren.pdb
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.csproj.AssemblyReference.cache
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.AssemblyInfoInputs.cache
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.AssemblyInfo.cs
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.csproj.CoreCompileInputs.cache
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.dll
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\refint\phdapplication_eren.dll
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.pdb
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\phdapplication_eren.genruntimeconfig.cache
+C:\Users\ereng\OneDrive\Desktop\phdapplication_eren\obj\Debug\net7.0\ref\phdapplication_eren.dll
